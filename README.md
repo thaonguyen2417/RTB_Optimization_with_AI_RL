@@ -2,11 +2,11 @@
 
 
 References
-https://arxiv.org/abs/1407.7073
-https://arxiv.org/pdf/1407.7073
-https://contest.ipinyou.com/ipinyou-dataset.pdf
-https://www.semanticscholar.org/paper/iPinYou-Global-RTB-Bidding-Algorithm-Competition-Liao-Peng/3ae1a3cea640aaed12bfa7032e73afaa6c7a810a
-https://www.semanticscholar.org/paper/Bidding-Machine%3A-Learning-to-Bid-for-Directly-in-Ren-Zhang/fd604450fb589c71e61dee29f8682e3b68f5683b
-https://ieeexplore.ieee.org/document/10662521
-https://numberly.com/en/real-time-bidding-rtb-seen-through-the-lens-of-machine-learning-research/
-http://www0.cs.ucl.ac.uk/staff/w.zhang/slides/ecir16-rtb.pdf
+- [iPinYou Global RTB Bidding Algorithm Competition Dataset](https://contest.ipinyou.com/ipinyou-dataset.pdf) by Hairen Liao, Lingxiao Peng, Zhenchuan Liu, Xuehua Shen, iPinYou Inc., 2013
+- Efficient Bid Optimization Method for Budget Constraint Bidding in Online Advertising by Ke Fang1, Junfeng Wu2, Hao Liu3, Qingyu Cao, IEEE 2024
+- [Real-Time Bidding (RTB) seen through the lens of machine learning research](https://numberly.com/en/real-time-bidding-rtb-seen-through-the-lens-of-machine-learning-research/) by Numberly
+- [Optimal Real-Time Bidding Strategies](https://arxiv.org/abs/1511.08409) by Junqi Jin et al. ArXiv 2018
+- [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018
+- [Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.09756) by by Junqi Jin et al. ArXiv 2018
+- [Real-Time Bidding rules of thumb: analytically optimizing the programmatic buying of ad-inventory](https://wnzhang.net/share/rtb-papers/opt-prog-buy.pdf) by Joaquin Fernandez-Tapia. SSRN 2015
+- [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://wnzhang.net/share/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011
