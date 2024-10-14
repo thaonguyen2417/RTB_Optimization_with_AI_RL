@@ -8,6 +8,6 @@
 - ~~[Optimal Real-Time Bidding Strategies](https://arxiv.org/abs/1511.08409) by Junqi Jin et al. ArXiv 2018~~
 - ~~[Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018~~
 - OR [Real-Time Bidding by Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1701.02490) by Han Cai et al. WSDM 2017
-- [Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.09756) by by Junqi Jin et al. ArXiv 2018
-- [Real-Time Bidding rules of thumb: analytically optimizing the programmatic buying of ad-inventory](https://wnzhang.net/share/rtb-papers/opt-prog-buy.pdf) by Joaquin Fernandez-Tapia. SSRN 2015
+- ~~[Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.09756) by by Junqi Jin et al. ArXiv 2018~~
+- ~~[Real-Time Bidding rules of thumb: analytically optimizing the programmatic buying of ad-inventory](https://wnzhang.net/share/rtb-papers/opt-prog-buy.pdf) by Joaquin Fernandez-Tapia. SSRN 2015~~
 - [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://wnzhang.net/share/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011
