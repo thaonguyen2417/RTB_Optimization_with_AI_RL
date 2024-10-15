@@ -11,3 +11,6 @@
 - ~~[Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.09756) by by Junqi Jin et al. ArXiv 2018~~
 - ~~[Real-Time Bidding rules of thumb: analytically optimizing the programmatic buying of ad-inventory](https://wnzhang.net/share/rtb-papers/opt-prog-buy.pdf) by Joaquin Fernandez-Tapia. SSRN 2015~~
 - [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://wnzhang.net/share/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011
+- [Offline Evaluation of Response Prediction in Online Advertising Auctions](https://wnzhang.net/share/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
+- [Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012.
+- 
