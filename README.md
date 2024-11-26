@@ -3,9 +3,13 @@
 > [!NOTE]
 > Navigate the repo
 > `CS668_Capstone_Project.ipynb` : Data and EDA
+> 
 > `CS668_RL.ipynb` : Reinforcement Learning - model-free Q-learning agent
+> 
 > `CS668_Poster.pdf`: high-level information about the project
+> 
 > `dataset` folder: empty folder LOL
+> 
 > `Dataset_Ads.csv` this is the dataset
 
 ### Abstract
