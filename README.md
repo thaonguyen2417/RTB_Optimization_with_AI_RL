@@ -1,5 +1,13 @@
 # RTB_Optimization_with_AI_RL
 
+> [!NOTE]
+> Navigate the repo
+> `CS668_Capstone_Project.ipynb` : Data and EDA
+> `CS668_RL.ipynb` : Reinforcement Learning - model-free Q-learning agent
+> `CS668_Poster.pdf`: high-level information about the project
+> `dataset` folder: empty folder LOL
+> `Dataset_Ads.csv` this is the dataset
+
 ### Abstract
 
 Real-Time Bidding (RTB) is a programmatic advertising technique that enables advertisers to bid on individual ad impressions in real time as they become available. This project presents a reinforcement learning framework using Q-learning and exploration-exploitation technique to optimize bids in RTB. The results demonstrate the ability of Q-learning to adaptively learn optimal bidding strategies that maximize reward based on clicks and conversions.
@@ -35,4 +43,9 @@ Q-values formula with α learning rate, γ discount factor, s state, a action:
 - [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://wnzhang.net/share/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011
 - [Offline Evaluation of Response Prediction in Online Advertising Auctions](https://wnzhang.net/share/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
 - [Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012.
-- 
+
+
+  ### Contact Me:
+  Thao Nguyen
+
+✉️ tn01512n@pace.edu
