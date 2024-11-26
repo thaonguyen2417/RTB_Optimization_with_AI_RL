@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > Navigate the repo
+> 
 > `CS668_Capstone_Project.ipynb` : Data and EDA
 > 
 > `CS668_RL.ipynb` : Reinforcement Learning - model-free Q-learning agent
